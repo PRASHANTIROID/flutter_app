@@ -1,2 +1,4 @@
 # flutter_app
-app with db
+hi i am prashant
+
+i am learning flutter on udemy.
